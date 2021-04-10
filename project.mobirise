@@ -68,7 +68,8 @@
       "email": "arailym.tll@gmail.com",
       "currency": "USD",
       "popupProduct": true
-    }
+    },
+    "publishChangesOnly": true
   },
   "pages": {
     "index.html": {
